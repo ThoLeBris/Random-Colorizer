@@ -1,2 +1,2 @@
 # Random Colorizer
-Projetc JS
+Project JS
