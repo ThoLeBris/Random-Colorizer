@@ -1,2 +1,2 @@
-# Projets
-Projets JS
+# Random Colorizer
+Projetc JS
